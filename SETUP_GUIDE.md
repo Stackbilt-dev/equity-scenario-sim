@@ -23,7 +23,7 @@ If not installed:
 ### Step 2: Clone the Repository
 
 ```bash
-git clone https://github.com/SmartBrandStrategies/EquityScenarioSim.git
+git clone https://github.com/Stackbilt-dev/equity-scenario-sim.git
 cd EquityScenarioSim
 ```
 
@@ -98,7 +98,7 @@ Open your browser to: **http://localhost:5173/**
 # Then in PowerShell or Command Prompt:
 
 npm install -g yarn
-git clone https://github.com/SmartBrandStrategies/EquityScenarioSim.git
+git clone https://github.com/Stackbilt-dev/equity-scenario-sim.git
 cd EquityScenarioSim
 yarn install
 yarn dev
@@ -118,7 +118,7 @@ brew install yarn
 # Option 2: Download from nodejs.org
 
 # Then:
-git clone https://github.com/SmartBrandStrategies/EquityScenarioSim.git
+git clone https://github.com/Stackbilt-dev/equity-scenario-sim.git
 cd EquityScenarioSim
 yarn install
 yarn dev
@@ -132,7 +132,7 @@ yarn dev
 sudo apt update
 sudo apt install nodejs npm yarn
 
-git clone https://github.com/SmartBrandStrategies/EquityScenarioSim.git
+git clone https://github.com/Stackbilt-dev/equity-scenario-sim.git
 cd EquityScenarioSim
 yarn install
 yarn dev
@@ -340,7 +340,7 @@ After building, you can:
 **Setup Issues?**
 1. Check [TROUBLESHOOTING.md](./TROUBLESHOOTING.md)
 2. Review error messages carefully
-3. Open [GitHub Issue](https://github.com/SmartBrandStrategies/EquityScenarioSim/issues)
+3. Open [GitHub Issue](https://github.com/Stackbilt-dev/equity-scenario-sim/issues)
 
 **Other Questions?**
 - 📚 Check [README.md](./README.md)

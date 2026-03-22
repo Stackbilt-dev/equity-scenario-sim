@@ -301,7 +301,7 @@ src/
 ## Recognition
 
 ### Credits
-- **Designed & Developed**: smartbrandstrategies.com
+- **Designed & Developed**: stackbilt.dev
 - **Technology**: React 19, TypeScript, Vite
 - **Community**: All contributors and users
 

@@ -55,7 +55,7 @@ A sophisticated cap table simulator designed to model partnership negotiations a
 The easiest way to get started:
 
 ```bash
-git clone https://github.com/SmartBrandStrategies/EquityScenarioSim.git
+git clone https://github.com/Stackbilt-dev/equity-scenario-sim.git
 cd EquityScenarioSim
 npm install -g yarn  # Recommended for Windows users
 yarn install         # or: npm install
@@ -78,7 +78,7 @@ For detailed setup instructions for your operating system, see [SETUP_GUIDE.md](
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/SmartBrandStrategies/EquityScenarioSim.git
+   git clone https://github.com/Stackbilt-dev/equity-scenario-sim.git
    cd EquityScenarioSim
    ```
 
@@ -130,7 +130,7 @@ yarn dev --port 3000  # or: npm run dev -- --port 3000
 3. Restart your terminal
 4. Verify: `node --version` and `npm --version`
 
-**For more help**, see [TROUBLESHOOTING.md](./TROUBLESHOOTING.md) or open a [GitHub Issue](https://github.com/SmartBrandStrategies/EquityScenarioSim/issues)
+**For more help**, see [TROUBLESHOOTING.md](./TROUBLESHOOTING.md) or open a [GitHub Issue](https://github.com/Stackbilt-dev/equity-scenario-sim/issues)
 
 ## Development
 
@@ -204,6 +204,6 @@ This project is fully open sourced and available for anyone to use, modify, and 
 
 ## Credits
 
-- **Original Design & Development**: [smartbrandstrategies.com](https://smartbrandstrategies.com)
+- **Original Design & Development**: [stackbilt.dev](https://stackbilt.dev)
 - **Technology Stack**: React 19, TypeScript, Vite, Tailwind CSS
 - **Community**: Thanks to all contributors and users

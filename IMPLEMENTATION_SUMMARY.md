@@ -366,7 +366,7 @@ npm run dev
 
 ## License & Attribution
 
-**Designed & Powered by**: [smartbrandstrategies.com](https://smartbrandstrategies.com)
+**Designed & Powered by**: [stackbilt.dev](https://stackbilt.dev)
 
 ---
 

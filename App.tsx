@@ -244,7 +244,7 @@ function App() {
           </div>
         </div>
         <footer className="text-center py-8 text-gray-500 text-sm">
-            Designed & Powered by <a href="https://smartbrandstrategies.com" target="_blank" rel="noopener noreferrer" className="hover:text-gray-300 underline transition-colors">smartbrandstrategies.com</a>
+            Designed & Powered by <a href="https://stackbilt.dev" target="_blank" rel="noopener noreferrer" className="hover:text-gray-300 underline transition-colors">stackbilt.dev</a>
         </footer>
       </div>
     </div>

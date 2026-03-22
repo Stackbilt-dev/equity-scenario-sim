@@ -210,7 +210,7 @@ useMemo(() => {
 git --version
 
 # Clone with HTTPS (if SSH doesn't work)
-git clone https://github.com/SmartBrandStrategies/EquityScenarioSim.git
+git clone https://github.com/Stackbilt-dev/equity-scenario-sim.git
 
 # Or with SSH
 git clone git@github.com:SmartBrandStrategies/EquityScenarioSim.git
@@ -304,7 +304,7 @@ sudo apt install nodejs npm
 
 ```bash
 # Fresh setup
-git clone https://github.com/SmartBrandStrategies/EquityScenarioSim.git
+git clone https://github.com/Stackbilt-dev/equity-scenario-sim.git
 cd EquityScenarioSim
 npm install  # or yarn install
 npm run dev  # or yarn dev
@@ -314,7 +314,7 @@ npm run dev  # or yarn dev
 
 ## Useful Links
 
-- **Repository**: https://github.com/SmartBrandStrategies/EquityScenarioSim
+- **Repository**: https://github.com/Stackbilt-dev/equity-scenario-sim
 - **npm Registry**: https://www.npmjs.com/package/cap-table-simulator
 - **Node.js**: https://nodejs.org
 - **Vite Docs**: https://vitejs.dev
@@ -367,4 +367,4 @@ ver       # Windows
 
 ---
 
-**Still stuck?** Open an issue on [GitHub Issues](https://github.com/SmartBrandStrategies/EquityScenarioSim/issues)
+**Still stuck?** Open an issue on [GitHub Issues](https://github.com/Stackbilt-dev/equity-scenario-sim/issues)
