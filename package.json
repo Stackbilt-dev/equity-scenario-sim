@@ -3,10 +3,7 @@
   "version": "0.2.0",
   "description": "A sophisticated cap table simulator for partnership negotiations, featuring milestone-based vesting, performance equity, and comprehensive exit analysis",
   "license": "MIT",
-  "author": {
-    "name": "Cap Table Simulator Contributors",
-    "url": "https://github.com/yourusername/cap-table-simulator"
-  },
+  "author": "Stackbilt LLC",
   "keywords": [
     "cap-table",
     "equity",
@@ -18,12 +15,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/cap-table-simulator"
+    "url": "https://github.com/Stackbilt-dev/equity-scenario-sim"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/cap-table-simulator/issues"
+    "url": "https://github.com/Stackbilt-dev/equity-scenario-sim/issues"
   },
-  "homepage": "https://github.com/yourusername/cap-table-simulator#readme",
+  "homepage": "https://github.com/Stackbilt-dev/equity-scenario-sim#readme",
   "type": "module",
   "scripts": {
     "dev": "vite",

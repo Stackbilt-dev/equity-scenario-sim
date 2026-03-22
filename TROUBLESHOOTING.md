@@ -213,7 +213,7 @@ git --version
 git clone https://github.com/Stackbilt-dev/equity-scenario-sim.git
 
 # Or with SSH
-git clone git@github.com:SmartBrandStrategies/EquityScenarioSim.git
+git clone git@github.com:Stackbilt-dev/equity-scenario-sim.git
 ```
 
 ### Changes not pushed to remote

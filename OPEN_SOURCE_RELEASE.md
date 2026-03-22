@@ -86,7 +86,7 @@ The complete **Cap Table Simulator** source code is now freely available to ever
 2. Read [CONTRIBUTING.md](./CONTRIBUTING.md)
 3. Clone and set up locally:
    ```bash
-   git clone https://github.com/yourusername/cap-table-simulator.git
+   git clone https://github.com/Stackbilt-dev/equity-scenario-sim.git
    cd cap-table-simulator
    npm install
    npm run dev
@@ -388,4 +388,4 @@ This project is licensed under the MIT License - see [LICENSE](./LICENSE) for de
 **Released**: November 10, 2024
 **Status**: Production Ready ✅
 **License**: MIT
-**Repository**: https://github.com/yourusername/cap-table-simulator
+**Repository**: https://github.com/Stackbilt-dev/equity-scenario-sim

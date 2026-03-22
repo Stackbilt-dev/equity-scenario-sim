@@ -1,3 +1,7 @@
+<div align="center">
+<img src="assets/banner.png" alt="Cap Table Simulator" width="100%" />
+</div>
+
 # Cap Table Simulator
 
 A sophisticated cap table simulator designed to model partnership negotiations and understand the financial impact of bringing on new partners. Adjust deal structures, vesting schedules, and performance milestones to see real-time effects on ownership percentages and exit payouts.
@@ -207,3 +211,7 @@ This project is fully open sourced and available for anyone to use, modify, and 
 - **Original Design & Development**: [stackbilt.dev](https://stackbilt.dev)
 - **Technology Stack**: React 19, TypeScript, Vite, Tailwind CSS
 - **Community**: Thanks to all contributors and users
+
+---
+
+Built by [Stackbilt](https://stackbilt.dev) — MIT License

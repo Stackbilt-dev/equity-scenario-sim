@@ -43,7 +43,7 @@ The **Cap Table Simulator** is now fully open sourced under the MIT License. Thi
 ### For Using in Your Project
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cap-table-simulator.git
+git clone https://github.com/Stackbilt-dev/equity-scenario-sim.git
 
 # Install dependencies
 npm install
@@ -182,14 +182,14 @@ If you use this project, we appreciate (but don't require) attribution:
 ### Suggested Attribution
 ```
 Cap Table Simulator - MIT License
-https://github.com/yourusername/cap-table-simulator
+https://github.com/Stackbilt-dev/equity-scenario-sim
 
 Designed for equity scenario modeling and partnership negotiations.
 ```
 
 ### In Your README
 ```markdown
-This project uses [Cap Table Simulator](https://github.com/yourusername/cap-table-simulator)
+This project uses [Cap Table Simulator](https://github.com/Stackbilt-dev/equity-scenario-sim)
 licensed under the MIT License.
 ```
 
