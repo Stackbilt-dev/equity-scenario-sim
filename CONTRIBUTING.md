@@ -1,6 +1,6 @@
-# Contributing to Cap Table Simulator
+# Contributing to Equity Scenario Sim
 
-Thank you for your interest in contributing to the Cap Table Simulator! This document provides guidelines and instructions for contributing.
+Thank you for your interest in contributing to Equity Scenario Sim! This document provides guidelines and instructions for contributing.
 
 ## Code of Conduct
 
@@ -18,8 +18,8 @@ Be respectful, inclusive, and collaborative. We're building this together for th
 1. **Fork the repository** on GitHub
 2. **Clone your fork**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/cap-table-simulator.git
-   cd cap-table-simulator
+   git clone https://github.com/YOUR_USERNAME/equity-scenario-sim.git
+   cd equity-scenario-sim
    ```
 
 3. **Install dependencies**:
@@ -193,7 +193,7 @@ Format:
 When you add a feature, please update:
 - `README.md` - Add to features list
 - Component JSDoc - Explain component purpose
-- `CHANGES.md` or phase-specific docs - Document the change
+- PR description - Document the change
 - Code comments - Clarify complex logic
 
 ## Development Workflow
@@ -306,4 +306,4 @@ const formatCurrency = (value: number) => {
 
 ---
 
-Thank you for contributing! Your efforts help make Cap Table Simulator better for everyone. 🙌
+Thank you for contributing! Your efforts help make Equity Scenario Sim better for everyone.

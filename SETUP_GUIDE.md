@@ -24,7 +24,7 @@ If not installed:
 
 ```bash
 git clone https://github.com/Stackbilt-dev/equity-scenario-sim.git
-cd EquityScenarioSim
+cd equity-scenario-sim
 ```
 
 ### Step 3: Install Yarn (Recommended)
@@ -83,7 +83,7 @@ VITE v6.2.0  ready in XXX ms
 
 Open your browser to: **http://localhost:5173/**
 
-✅ You're ready to start using Cap Table Simulator!
+You're ready to start using Equity Scenario Sim!
 
 ---
 
@@ -99,7 +99,7 @@ Open your browser to: **http://localhost:5173/**
 
 npm install -g yarn
 git clone https://github.com/Stackbilt-dev/equity-scenario-sim.git
-cd EquityScenarioSim
+cd equity-scenario-sim
 yarn install
 yarn dev
 
@@ -119,7 +119,7 @@ brew install yarn
 
 # Then:
 git clone https://github.com/Stackbilt-dev/equity-scenario-sim.git
-cd EquityScenarioSim
+cd equity-scenario-sim
 yarn install
 yarn dev
 
@@ -133,7 +133,7 @@ sudo apt update
 sudo apt install nodejs npm yarn
 
 git clone https://github.com/Stackbilt-dev/equity-scenario-sim.git
-cd EquityScenarioSim
+cd equity-scenario-sim
 yarn install
 yarn dev
 
@@ -252,11 +252,11 @@ yarn --version
 git --version
 
 # 5. Test the dev server
-cd EquityScenarioSim
+cd equity-scenario-sim
 yarn dev  # or npm run dev
 
 # 6. Open browser to http://localhost:5173/
-# 7. You should see the Cap Table Simulator app
+# 7. You should see the Equity Scenario Sim app
 ```
 
 ✅ If all checks pass, you're ready to go!
@@ -266,15 +266,15 @@ yarn dev  # or npm run dev
 ## Directory Structure After Setup
 
 ```
-EquityScenarioSim/
+equity-scenario-sim/
 ├── node_modules/          (installed dependencies)
-├── src/
-│   ├── App.tsx
-│   ├── components/        (React components)
-│   ├── types.ts
-│   └── index.tsx
+├── assets/                (images and static assets)
+├── components/            (React components)
+├── App.tsx                (main application component)
+├── index.tsx              (application entry point)
+├── index.html             (HTML template)
+├── types.ts               (TypeScript type definitions)
 ├── dist/                  (build output, after npm run build)
-├── public/
 ├── package.json
 ├── tsconfig.json
 ├── vite.config.ts
@@ -329,8 +329,7 @@ After building, you can:
 
 1. ✅ Installation complete
 2. 📖 Read [README.md](./README.md) for features overview
-3. 🚀 Check [QUICK_START.md](./QUICK_START.md) for quick guide
-4. 👨‍💻 Review [CONTRIBUTING.md](./CONTRIBUTING.md) to contribute
+3. 👨‍💻 Review [CONTRIBUTING.md](./CONTRIBUTING.md) to contribute
 5. 🤝 Follow [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) community standards
 
 ---
@@ -344,7 +343,6 @@ After building, you can:
 
 **Other Questions?**
 - 📚 Check [README.md](./README.md)
-- 🚀 See [QUICK_START.md](./QUICK_START.md)
 - 📋 Read [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ---
@@ -361,4 +359,4 @@ After building, you can:
 
 ---
 
-**You're all set!** 🎉 Start building equity models with Cap Table Simulator.
+**You're all set!** Start building equity models with Equity Scenario Sim.

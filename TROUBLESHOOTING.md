@@ -120,7 +120,7 @@ npm install  # or yarn install
 1. Check error messages carefully
 2. Review the TypeScript at that line
 3. Ensure all types are properly imported
-4. See PHASE2_CHANGES.md for type definitions
+4. Check the TypeScript type definitions in `types.ts`
 
 ### Build is very slow
 
@@ -283,8 +283,7 @@ sudo apt install nodejs npm
 
 ### Check These First
 1. README.md - Basic setup
-2. QUICK_START.md - Quick guide
-3. CONTRIBUTING.md - Development guidelines
+2. CONTRIBUTING.md - Development guidelines
 4. This file - Troubleshooting
 
 ### Report Issues
@@ -305,7 +304,7 @@ sudo apt install nodejs npm
 ```bash
 # Fresh setup
 git clone https://github.com/Stackbilt-dev/equity-scenario-sim.git
-cd EquityScenarioSim
+cd equity-scenario-sim
 npm install  # or yarn install
 npm run dev  # or yarn dev
 
@@ -315,7 +314,7 @@ npm run dev  # or yarn dev
 ## Useful Links
 
 - **Repository**: https://github.com/Stackbilt-dev/equity-scenario-sim
-- **npm Registry**: https://www.npmjs.com/package/cap-table-simulator
+- **npm Registry**: https://www.npmjs.com/package/equity-scenario-sim
 - **Node.js**: https://nodejs.org
 - **Vite Docs**: https://vitejs.dev
 - **React Docs**: https://react.dev

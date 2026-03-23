@@ -2,7 +2,7 @@
 
 ## Our Commitment
 
-We are committed to providing a welcoming and inspiring community for all. We pledge that everyone participating in the Cap Table Simulator community will be treated with respect and dignity.
+We are committed to providing a welcoming and inspiring community for all. We pledge that everyone participating in the Equity Scenario Sim community will be treated with respect and dignity.
 
 ## Our Standards
 
@@ -33,7 +33,7 @@ This Code of Conduct applies to:
 - Code reviews and comments
 - Discussions and forums
 - Offline events and meetups
-- Any space representing the Cap Table Simulator community
+- Any space representing the Equity Scenario Sim community
 
 ## Enforcement
 
@@ -109,7 +109,7 @@ We appreciate:
 
 ## Acknowledgment
 
-This Code of Conduct is inspired by the Contributor Covenant and other community standards, adapted for the Cap Table Simulator project.
+This Code of Conduct is inspired by the Contributor Covenant and other community standards, adapted for the Equity Scenario Sim project.
 
 ## Changes to This Code
 

@@ -1,5 +1,5 @@
 {
-  "name": "Cap Table Simulator",
+  "name": "Equity Scenario Sim",
   "description": "A sophisticated cap table simulator for partnership negotiations, featuring milestone-based vesting, performance equity, and off-cap-table profit sharing (Delta Carry).",
   "requestFramePermissions": []
 }

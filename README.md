@@ -60,7 +60,7 @@ The easiest way to get started:
 
 ```bash
 git clone https://github.com/Stackbilt-dev/equity-scenario-sim.git
-cd EquityScenarioSim
+cd equity-scenario-sim
 npm install -g yarn  # Recommended for Windows users
 yarn install         # or: npm install
 yarn dev            # or: npm run dev
@@ -83,7 +83,7 @@ For detailed setup instructions for your operating system, see [SETUP_GUIDE.md](
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Stackbilt-dev/equity-scenario-sim.git
-   cd EquityScenarioSim
+   cd equity-scenario-sim
    ```
 
 2. **Install dependencies**:
@@ -208,7 +208,7 @@ This project is fully open sourced and available for anyone to use, modify, and 
 
 ## Credits
 
-- **Original Design & Development**: [stackbilt.dev](https://stackbilt.dev)
+- **Original Design & Development**: [Stackbilt](https://stackbilt.dev)
 - **Technology Stack**: React 19, TypeScript, Vite, Tailwind CSS
 - **Community**: Thanks to all contributors and users
 

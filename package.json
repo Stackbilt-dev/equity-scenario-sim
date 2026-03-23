@@ -1,5 +1,5 @@
 {
-  "name": "cap-table-simulator",
+  "name": "equity-scenario-sim",
   "version": "0.2.0",
   "description": "A sophisticated cap table simulator for partnership negotiations, featuring milestone-based vesting, performance equity, and comprehensive exit analysis",
   "license": "MIT",
